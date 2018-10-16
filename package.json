@@ -1,0 +1,25 @@
+{
+  "name": "bergen-nerdschool",
+  "version": "1.0.0",
+  "description": "Modern Javascript and Rest",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elisabethmarie/Bergen-Nerdschool.git"
+  },
+  "keywords": [
+    "rest",
+    "http",
+    "web",
+    "fun"
+  ],
+  "author": "Elisabeth",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/elisabethmarie/Bergen-Nerdschool/issues"
+  },
+  "homepage": "https://github.com/elisabethmarie/Bergen-Nerdschool#readme"
+}
