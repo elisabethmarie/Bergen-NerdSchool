@@ -21,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/elisabethmarie/Bergen-Nerdschool/issues"
   },
-  "homepage": "https://github.com/elisabethmarie/Bergen-Nerdschool#readme"
+  "homepage": "https://github.com/elisabethmarie/Bergen-Nerdschool#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
 }
